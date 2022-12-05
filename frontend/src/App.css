@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: darkgray;
+  min-height: 100vh;
+  color: black;
+  font-family: Copperplate Gothic Light
+}
